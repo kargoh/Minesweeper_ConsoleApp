@@ -1,0 +1,13 @@
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\bin\Debug\netcoreapp3.1\Milestone2.exe
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\bin\Debug\netcoreapp3.1\Milestone2.deps.json
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\bin\Debug\netcoreapp3.1\Milestone2.runtimeconfig.json
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\bin\Debug\netcoreapp3.1\Milestone2.runtimeconfig.dev.json
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\bin\Debug\netcoreapp3.1\Milestone2.dll
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\bin\Debug\netcoreapp3.1\Milestone2.pdb
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\obj\Debug\netcoreapp3.1\Milestone2.csprojAssemblyReference.cache
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\obj\Debug\netcoreapp3.1\Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\obj\Debug\netcoreapp3.1\Milestone2.AssemblyInfoInputs.cache
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\obj\Debug\netcoreapp3.1\Milestone2.AssemblyInfo.cs
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\obj\Debug\netcoreapp3.1\Milestone2.dll
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\obj\Debug\netcoreapp3.1\Milestone2.pdb
+C:\Users\deben\Desktop\School Workspace\CST-227\Milestone 2\Milestone 2\Milestone 2\Milestone1\obj\Debug\netcoreapp3.1\Milestone2.genruntimeconfig.cache
